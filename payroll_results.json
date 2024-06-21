@@ -1,0 +1,72 @@
+[
+  {
+    "employeeName": "John Doe",
+    "baseSalary": 3000,
+    "lopInstances": 0,
+    "lopAmount": 0,
+    "totalSalary": 3000
+  },
+  {
+    "employeeName": "Jane Smith",
+    "baseSalary": 3200,
+    "lopInstances": 0,
+    "lopAmount": 0,
+    "totalSalary": 3200
+  },
+  {
+    "employeeName": "Michael Brown",
+    "baseSalary": 5000,
+    "lopInstances": 0,
+    "lopAmount": 0,
+    "totalSalary": 5000
+  },
+  {
+    "employeeName": "Emily Davis",
+    "baseSalary": 3100,
+    "lopInstances": 0,
+    "lopAmount": 0,
+    "totalSalary": 3100
+  },
+  {
+    "employeeName": "David Lee",
+    "baseSalary": 3000,
+    "lopInstances": 0,
+    "lopAmount": 0,
+    "totalSalary": 3000
+  },
+  {
+    "employeeName": "Sarah Clark",
+    "baseSalary": 5500,
+    "lopInstances": 0,
+    "lopAmount": 0,
+    "totalSalary": 5500
+  },
+  {
+    "employeeName": "James Wilson",
+    "baseSalary": 3050,
+    "lopInstances": 0,
+    "lopAmount": 0,
+    "totalSalary": 3050
+  },
+  {
+    "employeeName": "Lisa Johnson",
+    "baseSalary": 3150,
+    "lopInstances": 0,
+    "lopAmount": 0,
+    "totalSalary": 3150
+  },
+  {
+    "employeeName": "Robert White",
+    "baseSalary": 2950,
+    "lopInstances": 0,
+    "lopAmount": 0,
+    "totalSalary": 2950
+  },
+  {
+    "employeeName": "Mary Taylor",
+    "baseSalary": 3100,
+    "lopInstances": 0,
+    "lopAmount": 0,
+    "totalSalary": 3100
+  }
+]
